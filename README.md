@@ -8,4 +8,4 @@
 
 В проэктной работе используются шрифты: 'Inter', Arial, sans-serif. Шрифты подключены локально, оптимизированы под устройства с различными разрешениями.
 
-* [Ссылка на на GitHub Pages](https://antonivanichenko.github.io/russian-travel/)
+* [Ссылка на на GitHub Pages](https://antonivanichenko.github.io/__russsian-travel/)
