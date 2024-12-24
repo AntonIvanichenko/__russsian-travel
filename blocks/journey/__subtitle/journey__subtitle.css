@@ -1,0 +1,35 @@
+.journey__subtitle {
+   max-width: 640px;
+   font-weight: 400;
+   font-size: 30px;
+   line-height: 1.2;
+   text-align: center;
+   margin: 32px auto 64px;
+}
+
+@media screen and (max-width: 1024px) {
+   .journey__subtitle {
+      margin: 30px auto 56px;
+   }
+}
+
+@media screen and (max-width: 767px) {
+   .journey__subtitle {
+      max-width: 80%;
+      font-size: 3.9vw;
+   }
+}
+
+@media screen and (max-width: 425px) {
+   .journey__subtitle {
+      font-size: 16px;
+      line-height: 1.25;
+   }
+}
+
+@media screen and (max-width: 340px) {
+   .journey__subtitle {
+      max-width: 100%;
+      margin: 16px auto 40px;
+   }
+}
